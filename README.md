@@ -1,30 +1,27 @@
 # ACIT4420_Problem_Solvign_with_scripting
 Norwegian Currency Prediction Using basic rules and LSTM 
-Dataset Package
+
+# Dataset Package
 The project used the dataset from Norges Bankd
 
 Therefore, the combined dataset is stored in available in the folder Dataset.
 
-### Script Description
+## Script Description
 Required Libraries are imported into the python
 
 Please update the directory with the corresponding user name in order to run the script successfully!
 
-### Python Package Installation
+# Python Package Installation
 Use the package manager pip to install essential packages if it is needed.
-<pre>
 
 pip install numpy
 pip install pandas
 pip install tensorflow
 pip install seaborn
 pip install matplotlib
-<pre>
 
 
-
-  
-### After the package installation, please import the libraries
+  After the package installation, please import the libraries
     
 
 
@@ -38,3 +35,5 @@ import  pandas as pd
 import seaborn as sns
 import warnings
 
+# The first step in this work is running basic scripts 
+# The 
