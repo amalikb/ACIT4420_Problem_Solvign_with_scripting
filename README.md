@@ -14,17 +14,20 @@ Please update the directory with the corresponding user name in order to run the
 Use the package manager pip to install essential packages if it is needed.
 <pre>
 
-  pip install numpy
+pip install numpy
 pip install pandas
 pip install tensorflow
-pip install trimesh
+pip install seaborn
 pip install matplotlib
 
   <pre>
-After the package installation, please run this code block 
+
+    
+    
+### After the package installation, please import the libraries
     
 
-  <pre>
+
 import os
 import numpy as np
 import tensorflow as tf
@@ -34,5 +37,4 @@ from matplotlib import pyplot as plt
 import  pandas as pd
 import seaborn as sns
 import warnings
-  <pre>
 
