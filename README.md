@@ -9,6 +9,21 @@ This repository contains scripts for predicting Norwegian currency using **basic
 The project utilizes the dataset from Norges Bank.
 
 The combined dataset is available in the **"Dataset"** folder.
+| Numbers | Currency (13.10.2023) | Exchange Rate (NOK) |
+|---------|------------------------|----------------------|
+| 1       | 1 HKD                 | 1.40                 |
+| 2       | 1 EUR                 | 11.52                |
+| 3       | 1 CAD                 | 8.00                 |
+| 4       | 1 USD                 | 10.94                |
+| 5       | 1 AUD                 | 6.91                 |
+| 6       | 1 SGD                 | 8.14                 |
+| 7       | 1 JPY                 | 7.31                 |
+| 8       | 100 PKR               | 3.94                 |
+| 9       | 100 SEK               | 99.71                |
+| 10      | 1 NZD                 | 6.46                 |
+| 11      | 100 TRY               | 39.36                |
+| 12      | 1 BRL                 | 2.16                 |
+
 
 ## Script Description
 
