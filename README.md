@@ -2,13 +2,13 @@
 
 ## Norwegian Currency Prediction Using Basic Rules and LSTM 
 
-This repository contains scripts for predicting Norwegian currency using basic rules and LSTM (Long Short-Term Memory) models.
+This repository contains scripts for predicting Norwegian currency using **basic rules** and **LSTM (Long Short-Term Memory)** models.
 
 ## Dataset Package
 
 The project utilizes the dataset from Norges Bank.
 
-The combined dataset is available in the "Dataset" folder.
+The combined dataset is available in the **"Dataset"** folder.
 
 ## Script Description
 
@@ -40,11 +40,10 @@ import warnings
 
 # First phase is the the scripting based on simple rules 
 
-## Download the exchange rates for some currencies, from 2013-1023
+- Download the exchange rates for some currencies, from 2013-1023
 
-## The data divided in time windows(3,5,10,15)and difference between the start and end of the segment been calculated
-## Six  Rules have been implemented using segment difference relationship with min,max,mean,median, correlation with time, and simple coparison of totale time window with segment difference
-
-- Output the percentage of correctly predicted time windows is presented as pandas dataframe as well as barplot(availabe in images folder
+- The data divided in **time windows(3,5,10,15)** and difference between the start and end of the segment been calculated
+- Six  Rules have been implemented using segment difference relationship with min,max,mean,median, correlation with time, and simple coparison of totale time window with segment difference
+- Output the percentage of correctly predicted time windows is presented as pandas dataframe as well as barplot(availabe in **images** folder
 - 
 
