@@ -2,7 +2,7 @@
 
 ## Norwegian Currency Prediction Using simple Rules and LSTM 
 
-This repository contains scripts for predicting Norwegian currency using **basic rules** and **LSTM (Long Short-Term Memory)** models.
+This repository contains scripts for predicting Norwegian currency using **basic rules of thumbs** and **LSTM (Long Short-Term Memory)** models.
 
 ## Dataset Package
 
