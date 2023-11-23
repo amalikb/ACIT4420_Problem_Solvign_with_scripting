@@ -13,17 +13,18 @@ Please update the directory with the corresponding user name in order to run the
 ### Python Package Installation
 Use the package manager pip to install essential packages if it is needed.
 <pre>
-'''
+
   pip install numpy
 pip install pandas
 pip install tensorflow
 pip install trimesh
 pip install matplotlib
-'''
-  <pre>
-After the package installation, please run this code block to initiate the procedures of loading, data parsing, training/testing and validating the models
 
-"""
+  <pre>
+After the package installation, please run this code block 
+    
+
+  <pre>
 import os
 import numpy as np
 import tensorflow as tf
@@ -33,5 +34,5 @@ from matplotlib import pyplot as plt
 import  pandas as pd
 import seaborn as sns
 import warnings
-"""
+  <pre>
 
