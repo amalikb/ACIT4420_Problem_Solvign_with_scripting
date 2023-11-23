@@ -1,6 +1,6 @@
 # ACIT4420_Problem_Solving_with_Scripting
 
-## Norwegian Currency Prediction Using Basic Rules and LSTM 
+## Norwegian Currency Prediction Using simple Rules and LSTM 
 
 This repository contains scripts for predicting Norwegian currency using **basic rules** and **LSTM (Long Short-Term Memory)** models.
 
