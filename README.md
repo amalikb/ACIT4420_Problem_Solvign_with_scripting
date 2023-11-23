@@ -19,11 +19,11 @@ pip install pandas
 pip install tensorflow
 pip install seaborn
 pip install matplotlib
+<pre>
 
-  <pre>
 
-    
-    
+
+  
 ### After the package installation, please import the libraries
     
 
