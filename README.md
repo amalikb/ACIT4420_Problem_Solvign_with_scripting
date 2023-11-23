@@ -5,20 +5,22 @@ The project used the dataset from Norges Bankd
 
 Therefore, the combined dataset is stored in available in the folder Dataset.
 
-Script Description
+### Script Description
 Required Libraries are imported into the python
 
 Please update the directory with the corresponding user name in order to run the script successfully!
 
-Python Package Installation
+### Python Package Installation
 Use the package manager pip to install essential packages if it is needed.
-"""
-pip install numpy
+<pre>
+'''
+  pip install numpy
 pip install pandas
 pip install tensorflow
 pip install trimesh
 pip install matplotlib
-"""
+'''
+  <pre>
 After the package installation, please run this code block to initiate the procedures of loading, data parsing, training/testing and validating the models
 
 """
