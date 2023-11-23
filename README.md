@@ -62,5 +62,5 @@ import warnings
 - The data divided in **time windows(3,5,10,15)** and difference between the start and end of the segment been calculated
 - Six  Rules have been implemented using segment difference relationship with min,max,mean,median, correlation with time, and simple coparison of totale time window with segment difference
 - Output the percentage of correctly predicted time windows is presented as pandas dataframe as well as barplot(availabe in **images** folder
-- LSTM machine learning model is trained and tested only for USD vs NOK with window size of ( 3 & 5), epoch (10,100, and 500)
+- LSTM machine learning model is trained and tested only for USD vs NOK with window size of ( 3 & 5), epoch (10,100, and 500), respectively.
 
