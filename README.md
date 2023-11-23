@@ -9,6 +9,8 @@ This repository contains scripts for predicting Norwegian currency using **basic
 The project utilizes the dataset from Norges Bank.
 
 The combined dataset is available in the **"Dataset"** folder.
+Foreign currency list used in this project versus NOK is listed in table below 
+
 | Numbers | Currency (13.10.2023) | Exchange Rate (NOK) |
 |---------|------------------------|----------------------|
 | 1       | 1 HKD                 | 1.40                 |
