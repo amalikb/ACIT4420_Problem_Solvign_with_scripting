@@ -40,18 +40,11 @@ import warnings
 
 # First phase is the the scripting based on simple rules 
 
-• Download the exchange rates for some currencies, 10 years back.
-• Divide the data in time windows and calculate the difference between the
-start and end of the segment.
-• Implement more than one rule to predict whether the difference between
-the start and end in a given time window will be positive or negative, based
-on the data only from previous time windows.
-• Suggestion for a (simple) rule: if the correlation (between the time points
-and the exchange rate) in the preceding window is positive, predict a positive
-difference. If the correlation is negative, predict a negative difference.
-• Output the percentage of correctly predicted time windows or segments.
-• For a given currency, use the program to produce a table comparing the
-prediction accuracy of all implemented prediction rules for 4 different time
-windows. Make a table of comparison for at least two currencies, and
-conclude regarding the prediction performance.
-These are minimum features which must be implemented, but
+## Download the exchange rates for some currencies, from 2013-1023
+
+## The data divided in time windows(3,5,10,15)and difference between the start and end of the segment been calculated
+## Six  Rules have been implemented using segment difference relationship with min,max,mean,median, correlation with time, and simple coparison of totale time window with segment difference
+
+- Output the percentage of correctly predicted time windows is presented as pandas dataframe as well as barplot(availabe in images folder
+- 
+
