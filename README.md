@@ -64,7 +64,8 @@ import warnings
 # After running the scripting which is based on simple rules of thumbs it directs the user to run the Machine learning code.
 - Output the percentage of correctly predicted time windows is presented as pandas dataframe as well as barplot(availabe in **images** folder
 - LSTM machine learning model is trained and tested only for USD vs NOK with window size of ( 3 & 5), epoch (10,100, and 500), respectively.
-- The updated machine learning script accepts one currency at the time [Link Text](Machine_Learning_Currency_Prediction.py)
+- The updated machine learning script accepts one currency at the time, it asks user for input size, epochs and currency
+- (Machine_Learning_Currency_Prediction.py)
 
 # graphs and pictures availabe in the Image Folder
 
